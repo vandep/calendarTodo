@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">日程表</string>
+
+    <string-array name="weeks">
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </string-array>
+
+    <string name="time_next">Next</string>
+    <string name="time_prev">Previous</string>
+    <string name="title">标题</string>
+    <string name="description">内容</string>
+    <string name="position">位置</string>
+    <string name="all_day">全天</string>
+    <string name="start_time">开始时间</string>
+    <string name="end_time">结束时间</string>
+    <string name="add_schedule">添加日程</string>
+    <string name="save">保存</string>
+    <string name="start_time_cannot_big_end_time">开始时间应该小于结束时间</string>
+    <string name="write_calendar">请在设置里允许访问您设备上的日历，以便将日程同步到手机日历</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+
+
+    <string name="action_today">今天</string>
+    <string name="action_day_view">日视图</string>
+    <string name="action_three_day_view">3日视图</string>
+    <string name="action_week_view">周视图</string>
+    <string name="title_activity_basic">基本样例</string>
+    <string name="month_view">月视图</string>
+    <string name="calendar_view">日程列表</string>
+    <string name="title_activity_asynchronous">异步请求事件</string>
+    <string name="async_error">无法从网络下载日程</string>
+    <string name="sync_system_schedule">读取手机系统日程，插入系统日程</string>
+    <string name="sync_system_event">同步手机系统事件</string>
+</resources>
